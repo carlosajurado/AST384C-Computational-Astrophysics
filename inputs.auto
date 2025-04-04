@@ -31,10 +31,10 @@ force_final_output = 0    ; regardless of do_io, do we output when the simulatio
 
 [kh]
 rho_1 = 1
-u_1 = -0.5
+u_1 = -5
 rho_2 = 2
-u_2 = 0.5
-bulk_velocity = 10
+u_2 = 5
+bulk_velocity = 0
 
 [mesh]
 grid_type = Cartesian2d    ; Geometry of the Grid ('Cartesian2d' or 'SphericalPolar')
