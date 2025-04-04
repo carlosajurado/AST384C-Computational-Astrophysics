@@ -46,8 +46,8 @@ xlboundary = periodic    ; minimum x BC ('reflect', 'outflow', or 'periodic')
 xrboundary = periodic    ; maximum x BC ('reflect', 'outflow', or 'periodic')
 ylboundary = periodic    ; minimum y BC ('reflect', 'outflow', or 'periodic')
 yrboundary = periodic    ; maximum y BC ('reflect', 'outflow', or 'periodic')
-nx = 64    ; number of zones in the x-direction
-ny = 64    ; number of zones in the y-direction
+nx = 72    ; number of zones in the x-direction
+ny = 72    ; number of zones in the y-direction
 
 [particles]
 do_particles = 0    ; include particles? (1=yes, 0=no)
